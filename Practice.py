@@ -1,4 +1,4 @@
-print()
+print("today's practice")
 print("Hello world")
 print("data science class 11")
 print("data science")
